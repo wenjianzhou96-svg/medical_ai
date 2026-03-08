@@ -1,0 +1,1944 @@
+2026-02-26 22:29:57 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-26 22:29:57 - root - INFO - 调试模式: True
+2026-02-26 22:29:57 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-26 22:29:57 - root - INFO - 调试模式: True
+2026-02-26 22:29:59 - root - INFO - 数据库表创建完成
+2026-02-26 22:29:59 - root - INFO - 医疗智能体系统 启动完成
+2026-02-26 22:30:10 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-26 22:30:10 - root - INFO - 调试模式: True
+2026-02-26 22:30:10 - root - INFO - 数据库表创建完成
+2026-02-26 22:30:10 - root - INFO - 医疗智能体系统 启动完成
+2026-02-26 22:30:10 - root - INFO - 正在关闭 医疗智能体系统
+2026-02-26 22:30:10 - root - INFO - 数据库连接已关闭
+2026-02-26 22:30:45 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-26 22:30:45 - root - INFO - 调试模式: True
+2026-02-26 22:30:46 - root - INFO - 数据库表创建完成
+2026-02-26 22:30:46 - root - INFO - 医疗智能体系统 启动完成
+2026-02-26 22:30:46 - root - INFO - 正在关闭 医疗智能体系统
+2026-02-26 22:30:46 - root - INFO - 数据库连接已关闭
+2026-02-26 22:31:05 - root - INFO - GET / - 状态码: 200 - 耗时: 0.00ms
+2026-02-26 22:31:18 - root - INFO - GET /health - 状态码: 200 - 耗时: 1.00ms
+2026-02-26 22:32:19 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-26 22:32:19 - root - INFO - 调试模式: True
+2026-02-26 22:32:19 - root - INFO - 数据库表创建完成
+2026-02-26 22:32:19 - root - INFO - 医疗智能体系统 启动完成
+2026-02-27 19:34:39 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 19:34:39 - root - INFO - 调试模式: True
+2026-02-27 19:34:39 - root - INFO - 数据库表创建完成
+2026-02-27 19:34:39 - root - INFO - 医疗智能体系统 启动完成
+2026-02-27 19:35:29 - root - INFO - GET /health - 状态码: 200 - 耗时: 0.00ms
+2026-02-27 20:49:11 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 8.71ms
+2026-02-27 20:49:11 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 233.12ms
+2026-02-27 20:51:15 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-02-27 20:51:16 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.96ms
+2026-02-27 20:51:20 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-02-27 20:51:20 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-02-27 21:27:53 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-02-27 21:27:53 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.87ms
+2026-02-27 21:28:05 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-02-27 21:28:05 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.99ms
+2026-02-27 21:34:55 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.56ms
+2026-02-27 21:34:55 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.34ms
+2026-02-27 21:35:24 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.56ms
+2026-02-27 21:35:24 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-02-27 21:37:24 - root - INFO - 正在关闭 医疗智能体系统
+2026-02-27 21:37:24 - root - INFO - 数据库连接已关闭
+2026-02-27 21:37:26 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:37:26 - root - INFO - 调试模式: True
+2026-02-27 21:37:26 - root - INFO - 调试模式: True
+2026-02-27 21:37:27 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:37:27 - root - INFO - 调试模式: True
+2026-02-27 21:37:27 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:37:27 - root - INFO - 调试模式: True
+2026-02-27 21:37:29 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:37:29 - root - INFO - 调试模式: True
+2026-02-27 21:37:29 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:37:29 - root - INFO - 调试模式: True
+2026-02-27 21:38:42 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:38:42 - root - INFO - 调试模式: True
+2026-02-27 21:38:42 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:38:42 - root - INFO - 调试模式: True
+2026-02-27 21:38:43 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:38:43 - root - INFO - 调试模式: True
+2026-02-27 21:38:43 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:38:43 - root - INFO - 调试模式: True
+2026-02-27 21:38:45 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:38:45 - root - INFO - 调试模式: True
+2026-02-27 21:38:45 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:38:45 - root - INFO - 调试模式: True
+2026-02-27 21:40:11 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:40:11 - root - INFO - 调试模式: True
+2026-02-27 21:40:12 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:40:12 - root - INFO - 调试模式: True
+2026-02-27 21:40:12 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:40:12 - root - INFO - 调试模式: True
+2026-02-27 21:40:12 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:40:12 - root - INFO - 调试模式: True
+2026-02-27 21:40:14 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:40:14 - root - INFO - 调试模式: True
+2026-02-27 21:42:04 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:42:04 - root - INFO - 调试模式: True
+2026-02-27 21:42:05 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:42:05 - root - INFO - 调试模式: True
+2026-02-27 21:42:05 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:42:05 - root - INFO - 调试模式: True
+2026-02-27 21:42:05 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:42:05 - root - INFO - 调试模式: True
+2026-02-27 21:42:06 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:42:06 - root - INFO - 调试模式: True
+2026-02-27 21:43:28 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:43:28 - root - INFO - 调试模式: True
+2026-02-27 21:43:28 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:43:28 - root - INFO - 调试模式: True
+2026-02-27 21:43:29 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:43:29 - root - INFO - 调试模式: True
+2026-02-27 21:43:29 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:43:29 - root - INFO - 调试模式: True
+2026-02-27 21:43:31 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:43:31 - root - INFO - 调试模式: True
+2026-02-27 21:43:31 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:43:31 - root - INFO - 调试模式: True
+2026-02-27 21:45:00 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:45:00 - root - INFO - 调试模式: True
+2026-02-27 21:45:00 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:45:00 - root - INFO - 调试模式: True
+2026-02-27 21:45:01 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:45:01 - root - INFO - 调试模式: True
+2026-02-27 21:45:01 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:45:01 - root - INFO - 调试模式: True
+2026-02-27 21:45:02 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:45:02 - root - INFO - 调试模式: True
+2026-02-27 21:45:03 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:45:03 - root - INFO - 调试模式: True
+2026-02-27 21:47:36 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:47:36 - root - INFO - 调试模式: True
+2026-02-27 21:47:36 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:47:36 - root - INFO - 调试模式: True
+2026-02-27 21:47:36 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:47:36 - root - INFO - 调试模式: True
+2026-02-27 21:47:36 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:47:36 - root - INFO - 调试模式: True
+2026-02-27 21:49:41 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-02-27 21:49:41 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-02-27 21:49:59 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:49:59 - root - INFO - 调试模式: True
+2026-02-27 21:49:59 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:49:59 - root - INFO - 调试模式: True
+2026-02-27 21:49:59 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:49:59 - root - INFO - 调试模式: True
+2026-02-27 21:49:59 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:49:59 - root - INFO - 调试模式: True
+2026-02-27 21:50:07 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-02-27 21:50:07 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-02-27 21:50:27 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 21:50:27 - root - INFO - 调试模式: True
+2026-02-27 22:01:48 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 22:01:48 - root - INFO - 调试模式: True
+2026-02-27 22:01:48 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 22:01:48 - root - INFO - 调试模式: True
+2026-02-27 22:01:48 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 22:01:48 - root - INFO - 调试模式: True
+2026-02-27 22:01:48 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 22:01:48 - root - INFO - 调试模式: True
+2026-02-27 22:01:48 - root - INFO - 正在启动 医疗智能体系统 v1.0.0
+2026-02-27 22:01:48 - root - INFO - 调试模式: True
+2026-02-27 22:18:13 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-02-27 22:18:13 - root - INFO - 调试模式: True
+2026-02-27 22:18:13 - root - INFO - 数据库表创建完成
+2026-02-27 22:18:13 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-02-27 23:04:02 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-02-27 23:04:02 - root - INFO - 调试模式: True
+2026-02-27 23:04:02 - root - INFO - 数据库表创建完成
+2026-02-27 23:04:02 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 19:23:49 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 19:23:49 - root - INFO - 调试模式: True
+2026-03-04 19:23:49 - root - INFO - 数据库表创建完成
+2026-03-04 19:23:49 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 19:24:42 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 19:24:43 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 140.42ms
+2026-03-04 19:25:08 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-04 19:25:08 - root - ERROR - Unhandled exception: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\anyio\streams\memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\anyio\streams\memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\anyio\streams\memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Medical_Intelligent_Agent_System\backend\app\main.py", line 74, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 84, in call_next
+    raise app_exc
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\exceptions.py", line 79, in __call__
+    raise exc
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "D:\anaconda\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 20, in __call__
+    raise e
+  File "D:\anaconda\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\routing.py", line 66, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\fastapi\routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\fastapi\routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Medical_Intelligent_Agent_System\backend\app\api\v1\auth.py", line 102, in register
+    password_hash=get_password_hash(request.password),
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Medical_Intelligent_Agent_System\backend\app\core\security.py", line 24, in get_password_hash
+    return pwd_context.hash(password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+         ^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-03-04 19:37:02 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-04 19:37:02 - root - ERROR - Unhandled exception: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\anyio\streams\memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\anyio\streams\memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\anyio\streams\memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Medical_Intelligent_Agent_System\backend\app\main.py", line 74, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 84, in call_next
+    raise app_exc
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\exceptions.py", line 79, in __call__
+    raise exc
+  File "D:\anaconda\Lib\site-packages\starlette\middleware\exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "D:\anaconda\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 20, in __call__
+    raise e
+  File "D:\anaconda\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "D:\anaconda\Lib\site-packages\starlette\routing.py", line 66, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\fastapi\routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\fastapi\routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Medical_Intelligent_Agent_System\backend\app\api\v1\auth.py", line 102, in register
+    password_hash=get_password_hash(request.password),
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Medical_Intelligent_Agent_System\backend\app\core\security.py", line 24, in get_password_hash
+    return pwd_context.hash(password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+         ^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-03-04 19:45:19 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 19:45:19 - root - INFO - 调试模式: True
+2026-03-04 19:45:19 - root - INFO - 数据库表创建完成
+2026-03-04 19:45:19 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 19:45:37 - root - INFO - POST /api/v1/auth/register - 状态码: 200 - 耗时: 427.03ms
+2026-03-04 19:45:37 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.57ms
+2026-03-04 19:45:37 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 6.54ms
+2026-03-04 19:46:32 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 19:46:32 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 19:46:44 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 19:46:44 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 19:46:46 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.44ms
+2026-03-04 19:46:54 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 2.40ms
+2026-03-04 19:47:00 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 1.65ms
+2026-03-04 19:47:47 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 2.00ms
+2026-03-04 19:49:48 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 2.00ms
+2026-03-04 19:52:54 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 19:52:54 - root - INFO - 数据库连接已关闭
+2026-03-04 19:52:56 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 19:52:56 - root - INFO - 调试模式: True
+2026-03-04 19:52:56 - root - INFO - 数据库表创建完成
+2026-03-04 19:52:56 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 19:53:12 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 364.14ms
+2026-03-04 19:53:12 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.51ms
+2026-03-04 19:53:12 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 7.04ms
+2026-03-04 19:53:23 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 19:53:23 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.69ms
+2026-03-04 19:53:26 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 19:53:26 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.00ms
+2026-03-04 19:53:36 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 19:53:36 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 1.99ms
+2026-03-04 20:09:45 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 20:09:46 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 20:10:02 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 20:10:02 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.63ms
+2026-03-04 20:10:08 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 20:10:09 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.11ms
+2026-03-04 20:25:27 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 20:25:28 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.97ms
+2026-03-04 20:25:30 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 20:25:30 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 20:29:50 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:29:50 - root - INFO - 数据库连接已关闭
+2026-03-04 20:29:53 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:29:53 - root - INFO - 调试模式: True
+2026-03-04 20:29:53 - root - INFO - 数据库表创建完成
+2026-03-04 20:29:53 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:30:48 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:30:48 - root - INFO - 数据库连接已关闭
+2026-03-04 20:30:51 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:30:51 - root - INFO - 调试模式: True
+2026-03-04 20:30:51 - root - INFO - 数据库表创建完成
+2026-03-04 20:30:51 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:31:09 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:31:09 - root - INFO - 数据库连接已关闭
+2026-03-04 20:31:12 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:31:12 - root - INFO - 调试模式: True
+2026-03-04 20:31:12 - root - INFO - 数据库表创建完成
+2026-03-04 20:31:12 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:31:27 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:31:27 - root - INFO - 数据库连接已关闭
+2026-03-04 20:31:29 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:31:29 - root - INFO - 调试模式: True
+2026-03-04 20:31:29 - root - INFO - 数据库表创建完成
+2026-03-04 20:31:29 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:32:36 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:32:36 - root - INFO - 数据库连接已关闭
+2026-03-04 20:32:38 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:32:38 - root - INFO - 调试模式: True
+2026-03-04 20:32:38 - root - INFO - 数据库表创建完成
+2026-03-04 20:32:38 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:32:57 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:32:57 - root - INFO - 数据库连接已关闭
+2026-03-04 20:40:46 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:40:46 - root - INFO - 调试模式: True
+2026-03-04 20:40:46 - root - INFO - 数据库表创建完成
+2026-03-04 20:40:46 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:41:05 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:41:05 - root - INFO - 数据库连接已关闭
+2026-03-04 20:41:07 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:41:07 - root - INFO - 调试模式: True
+2026-03-04 20:41:08 - root - INFO - 数据库表创建完成
+2026-03-04 20:41:08 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:41:46 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:41:46 - root - INFO - 数据库连接已关闭
+2026-03-04 20:41:48 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:41:48 - root - INFO - 调试模式: True
+2026-03-04 20:41:48 - root - INFO - 数据库表创建完成
+2026-03-04 20:41:48 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:43:41 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 20:43:41 - root - INFO - 数据库连接已关闭
+2026-03-04 20:43:43 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:43:43 - root - INFO - 调试模式: True
+2026-03-04 20:43:43 - root - INFO - 数据库表创建完成
+2026-03-04 20:43:43 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:43:53 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 139.86ms
+2026-03-04 20:43:53 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 20:43:53 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.55ms
+2026-03-04 20:43:57 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.62ms
+2026-03-04 20:43:57 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 20:43:59 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 7.00ms
+2026-03-04 20:44:14 - root - INFO - POST /api/v1/auth/register - 状态码: 200 - 耗时: 232.87ms
+2026-03-04 20:44:14 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.68ms
+2026-03-04 20:44:14 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 20:46:39 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 20:46:39 - root - INFO - 调试模式: True
+2026-03-04 20:46:39 - root - INFO - 数据库表创建完成
+2026-03-04 20:46:39 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 20:47:20 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 103.48ms
+2026-03-04 20:47:20 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 20:47:21 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.21ms
+2026-03-04 20:47:24 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.99ms
+2026-03-04 20:47:33 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 242.44ms
+2026-03-04 20:47:33 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.20ms
+2026-03-04 20:47:33 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.93ms
+2026-03-04 20:47:41 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 20:47:41 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.99ms
+2026-03-04 20:56:36 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.12ms
+2026-03-04 20:56:36 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.51ms
+2026-03-04 20:56:37 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 20:58:20 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.00ms
+2026-03-04 20:58:20 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 20:58:21 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.98ms
+2026-03-04 20:58:44 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 9.00ms
+2026-03-04 20:58:44 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 20:58:44 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 20:58:57 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.64ms
+2026-03-04 20:59:05 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 215.64ms
+2026-03-04 20:59:05 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.60ms
+2026-03-04 20:59:06 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.00ms
+2026-03-04 20:59:09 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.02ms
+2026-03-04 20:59:09 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 20:59:12 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 5.98ms
+2026-03-04 20:59:22 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 218.74ms
+2026-03-04 20:59:22 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 20:59:22 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.92ms
+2026-03-04 20:59:26 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 5.72ms
+2026-03-04 21:01:02 - root - INFO - POST /api/v1/auth/login - 状态码: 401 - 耗时: 208.38ms
+2026-03-04 21:01:12 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 214.87ms
+2026-03-04 21:01:12 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.58ms
+2026-03-04 21:01:13 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.00ms
+2026-03-04 21:03:39 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 3.99ms
+2026-03-04 21:04:10 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 228.16ms
+2026-03-04 21:04:10 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 21:04:10 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 1.98ms
+2026-03-04 21:12:26 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.01ms
+2026-03-04 21:12:26 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:12:27 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 21:12:28 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 21:12:29 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 21:12:29 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 21:12:36 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 21:12:36 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.01ms
+2026-03-04 21:12:38 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.98ms
+2026-03-04 21:12:46 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 233.46ms
+2026-03-04 21:12:46 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:12:46 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.98ms
+2026-03-04 21:12:58 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:12:58 - root - INFO - 数据库连接已关闭
+2026-03-04 21:13:01 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:13:01 - root - INFO - 调试模式: True
+2026-03-04 21:13:01 - root - INFO - 数据库表创建完成
+2026-03-04 21:13:01 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:13:03 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 106.17ms
+2026-03-04 21:13:03 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.98ms
+2026-03-04 21:13:04 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 6.01ms
+2026-03-04 21:17:10 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 21:17:37 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 246.00ms
+2026-03-04 21:17:37 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:17:37 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 21:18:29 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:18:29 - root - INFO - 数据库连接已关闭
+2026-03-04 21:18:32 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:18:32 - root - INFO - 调试模式: True
+2026-03-04 21:18:32 - root - INFO - 数据库表创建完成
+2026-03-04 21:18:32 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:19:17 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 98.23ms
+2026-03-04 21:20:13 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 404.55ms
+2026-03-04 21:20:13 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.59ms
+2026-03-04 21:20:13 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.57ms
+2026-03-04 21:22:04 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.99ms
+2026-03-04 21:22:04 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:22:04 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.00ms
+2026-03-04 21:22:09 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 21:22:09 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 21:22:09 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 21:22:23 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:22:23 - root - INFO - 数据库连接已关闭
+2026-03-04 21:22:27 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:22:27 - root - INFO - 调试模式: True
+2026-03-04 21:22:28 - root - INFO - 数据库表创建完成
+2026-03-04 21:22:28 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:22:28 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 11.00ms
+2026-03-04 21:22:28 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 273.59ms
+2026-03-04 21:22:28 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 10.00ms
+2026-03-04 21:44:18 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:44:18 - root - INFO - 数据库连接已关闭
+2026-03-04 21:44:21 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:44:21 - root - INFO - 调试模式: True
+2026-03-04 21:44:21 - root - INFO - 数据库表创建完成
+2026-03-04 21:44:21 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:44:26 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:44:26 - root - INFO - 数据库连接已关闭
+2026-03-04 21:44:29 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:44:29 - root - INFO - 调试模式: True
+2026-03-04 21:44:29 - root - INFO - 数据库表创建完成
+2026-03-04 21:44:29 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:44:37 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:44:37 - root - INFO - 数据库连接已关闭
+2026-03-04 21:44:39 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:44:39 - root - INFO - 调试模式: True
+2026-03-04 21:44:39 - root - INFO - 数据库表创建完成
+2026-03-04 21:44:39 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:45:33 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:45:33 - root - INFO - 数据库连接已关闭
+2026-03-04 21:45:36 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:45:36 - root - INFO - 调试模式: True
+2026-03-04 21:45:36 - root - INFO - 数据库表创建完成
+2026-03-04 21:45:36 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:45:47 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:45:47 - root - INFO - 数据库连接已关闭
+2026-03-04 21:45:50 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:45:50 - root - INFO - 调试模式: True
+2026-03-04 21:45:50 - root - INFO - 数据库表创建完成
+2026-03-04 21:45:50 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:49:23 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 129.55ms
+2026-03-04 21:49:23 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:49:24 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 6.31ms
+2026-03-04 21:50:00 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:50:00 - root - INFO - 数据库连接已关闭
+2026-03-04 21:50:02 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:50:02 - root - INFO - 调试模式: True
+2026-03-04 21:50:02 - root - INFO - 数据库表创建完成
+2026-03-04 21:50:02 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:51:38 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 21:51:38 - root - INFO - 数据库连接已关闭
+2026-03-04 21:51:40 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 21:51:40 - root - INFO - 调试模式: True
+2026-03-04 21:51:40 - root - INFO - 数据库表创建完成
+2026-03-04 21:51:40 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 21:51:40 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 2.01ms
+2026-03-04 21:51:40 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 103.40ms
+2026-03-04 21:51:40 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 21:51:51 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.78ms
+2026-03-04 21:51:51 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 21:51:51 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.52ms
+2026-03-04 21:51:54 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 21:51:54 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 21:52:11 - root - INFO - POST /api/v1/auth/send-code - 状态码: 400 - 耗时: 5.57ms
+2026-03-04 21:52:25 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 252.42ms
+2026-03-04 21:52:25 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.58ms
+2026-03-04 21:52:25 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.98ms
+2026-03-04 21:52:28 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:52:28 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-04 21:52:45 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 222.55ms
+2026-03-04 21:52:45 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.61ms
+2026-03-04 21:52:45 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.12ms
+2026-03-04 21:52:50 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:52:50 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.93ms
+2026-03-04 21:52:52 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 21:52:52 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 21:53:09 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 227.85ms
+2026-03-04 21:53:09 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:53:09 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 21:53:13 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:53:13 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.86ms
+2026-03-04 21:55:52 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 255.48ms
+2026-03-04 21:55:52 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.68ms
+2026-03-04 21:55:52 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.01ms
+2026-03-04 21:55:54 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.54ms
+2026-03-04 21:55:54 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-04 21:56:08 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 259.21ms
+2026-03-04 21:56:09 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.64ms
+2026-03-04 21:56:09 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 21:56:10 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:56:10 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.98ms
+2026-03-04 21:59:15 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 223.34ms
+2026-03-04 21:59:15 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.51ms
+2026-03-04 21:59:15 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 21:59:16 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 21:59:16 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-04 22:00:59 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 22:00:59 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.02ms
+2026-03-04 22:01:33 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.99ms
+2026-03-04 22:01:33 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:01:33 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:01:36 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-04 22:01:36 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:01:36 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-04 22:01:38 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 22:01:39 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 22:01:39 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:01:41 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.88ms
+2026-03-04 22:01:41 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.19ms
+2026-03-04 22:01:43 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 22:01:43 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:07:27 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 22:07:28 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.01ms
+2026-03-04 22:07:29 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.58ms
+2026-03-04 22:07:29 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 2.00ms
+2026-03-04 22:17:22 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.02ms
+2026-03-04 22:17:23 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.51ms
+2026-03-04 22:17:23 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.55ms
+2026-03-04 22:24:19 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:24:19 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:24:37 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 22:24:37 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:30:42 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.00ms
+2026-03-04 22:30:42 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:30:43 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 22:30:44 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:30:44 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.99ms
+2026-03-04 22:30:47 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.26ms
+2026-03-04 22:31:01 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 225.62ms
+2026-03-04 22:31:01 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.61ms
+2026-03-04 22:31:01 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.60ms
+2026-03-04 22:31:03 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:31:03 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 22:34:36 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.12ms
+2026-03-04 22:34:36 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.60ms
+2026-03-04 22:35:28 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.73ms
+2026-03-04 22:35:28 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.54ms
+2026-03-04 22:35:29 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 22:35:30 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 10.22ms
+2026-03-04 22:35:30 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.02ms
+2026-03-04 22:35:30 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.45ms
+2026-03-04 22:35:32 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 22:35:41 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 222.69ms
+2026-03-04 22:35:41 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.55ms
+2026-03-04 22:35:41 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.68ms
+2026-03-04 22:35:43 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:35:43 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:36:23 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-04 22:36:24 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 22:36:24 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:37:15 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 22:37:16 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 22:37:16 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:37:21 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 22:37:21 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.26ms
+2026-03-04 22:37:23 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:37:23 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 22:37:26 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.99ms
+2026-03-04 22:37:26 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.52ms
+2026-03-04 22:37:26 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:39:14 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.15ms
+2026-03-04 22:39:14 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.08ms
+2026-03-04 22:39:15 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-04 22:39:20 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 22:39:20 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.92ms
+2026-03-04 22:39:20 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 2.72ms
+2026-03-04 22:39:20 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.90ms
+2026-03-04 22:39:20 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:39:27 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.58ms
+2026-03-04 22:39:27 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.99ms
+2026-03-04 22:39:27 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:39:31 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.02ms
+2026-03-04 22:39:32 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:39:32 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:39:51 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.58ms
+2026-03-04 22:39:52 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 22:39:52 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.58ms
+2026-03-04 22:40:47 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.14ms
+2026-03-04 22:40:47 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.75ms
+2026-03-04 22:40:47 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.16ms
+2026-03-04 22:40:47 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:40:47 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:40:53 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 22:40:53 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 9.13ms
+2026-03-04 22:40:53 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 2.99ms
+2026-03-04 22:40:53 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 3.00ms
+2026-03-04 22:40:53 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.56ms
+2026-03-04 22:43:45 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:43:45 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.02ms
+2026-03-04 22:43:46 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 3.99ms
+2026-03-04 22:44:28 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:44:28 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.01ms
+2026-03-04 22:44:35 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:44:35 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.99ms
+2026-03-04 22:44:46 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 230.04ms
+2026-03-04 22:44:46 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.55ms
+2026-03-04 22:44:46 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.43ms
+2026-03-04 22:45:01 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.55ms
+2026-03-04 22:45:02 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.66ms
+2026-03-04 22:45:04 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 22:45:04 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.01ms
+2026-03-04 22:46:34 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 22:46:34 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 22:46:36 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 22:46:36 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:46:48 - root - INFO - POST /api/v1/auth/send-code - 状态码: 400 - 耗时: 6.02ms
+2026-03-04 22:46:59 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 33.99ms
+2026-03-04 22:47:10 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.00ms
+2026-03-04 22:47:10 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:47:10 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 22:47:15 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.57ms
+2026-03-04 22:47:15 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.55ms
+2026-03-04 22:47:29 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 22:47:29 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.22ms
+2026-03-04 22:47:29 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.57ms
+2026-03-04 22:47:29 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:47:29 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 22:47:35 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.01ms
+2026-03-04 22:47:35 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.43ms
+2026-03-04 22:47:35 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 2.13ms
+2026-03-04 22:47:35 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.77ms
+2026-03-04 22:47:35 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.55ms
+2026-03-04 22:48:03 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 3.99ms
+2026-03-04 22:48:03 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:48:03 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-04 22:48:05 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:48:05 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.01ms
+2026-03-04 22:48:07 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.00ms
+2026-03-04 22:48:08 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 22:48:08 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.99ms
+2026-03-04 22:48:09 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 22:48:15 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 1.00ms
+2026-03-04 22:48:20 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 0.59ms
+2026-03-04 22:48:44 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 1.98ms
+2026-03-04 22:52:30 - root - INFO - POST /api/v1/auth/login - 状态码: 422 - 耗时: 2.02ms
+2026-03-04 22:54:27 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 237.29ms
+2026-03-04 22:54:27 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.57ms
+2026-03-04 22:54:27 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.01ms
+2026-03-04 22:54:35 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 22:54:35 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-04 22:54:54 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 10.98ms
+2026-03-04 22:54:58 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 9.99ms
+2026-03-04 22:59:14 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.07ms
+2026-03-04 22:59:14 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 10.57ms
+2026-03-04 22:59:14 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.12ms
+2026-03-04 22:59:14 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 22:59:14 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.13ms
+2026-03-04 23:00:38 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.03ms
+2026-03-04 23:00:38 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 9.31ms
+2026-03-04 23:00:38 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.54ms
+2026-03-04 23:00:38 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.55ms
+2026-03-04 23:00:38 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.51ms
+2026-03-04 23:01:13 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-04 23:01:14 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:01:14 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:01:16 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 23:01:16 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:01:16 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.55ms
+2026-03-04 23:01:19 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:01:19 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 1.99ms
+2026-03-04 23:01:20 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:01:20 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 23:01:49 - root - INFO - PUT /api/v1/users/1 - 状态码: 200 - 耗时: 19.65ms
+2026-03-04 23:01:49 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.81ms
+2026-03-04 23:02:04 - root - INFO - PUT /api/v1/users/1 - 状态码: 200 - 耗时: 28.99ms
+2026-03-04 23:02:04 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.01ms
+2026-03-04 23:02:12 - root - INFO - PUT /api/v1/users/1 - 状态码: 200 - 耗时: 17.99ms
+2026-03-04 23:02:12 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.10ms
+2026-03-04 23:02:18 - root - INFO - PUT /api/v1/users/1 - 状态码: 200 - 耗时: 17.09ms
+2026-03-04 23:02:18 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.43ms
+2026-03-04 23:02:21 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.71ms
+2026-03-04 23:02:21 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 23:02:22 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:02:30 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 8.99ms
+2026-03-04 23:02:33 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.77ms
+2026-03-04 23:02:33 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 23:02:33 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:02:36 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 10.01ms
+2026-03-04 23:02:40 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 10.00ms
+2026-03-04 23:02:56 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.00ms
+2026-03-04 23:02:56 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:02:56 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:05:03 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-04 23:05:03 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:05:03 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 23:05:08 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:05:08 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 1.99ms
+2026-03-04 23:05:10 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:05:10 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.04ms
+2026-03-04 23:11:49 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:11:49 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 10.36ms
+2026-03-04 23:11:49 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.56ms
+2026-03-04 23:11:49 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:11:49 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:12:02 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:12:02 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 9.19ms
+2026-03-04 23:12:02 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 2.73ms
+2026-03-04 23:12:02 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 3.99ms
+2026-03-04 23:12:02 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:12:30 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:12:30 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.99ms
+2026-03-04 23:12:30 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.02ms
+2026-03-04 23:12:30 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 23:12:30 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:12:56 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-04 23:12:56 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:12:56 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:12:58 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.59ms
+2026-03-04 23:12:58 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.60ms
+2026-03-04 23:13:14 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:13:15 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 23:13:15 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.54ms
+2026-03-04 23:13:15 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:15:14 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-04 23:15:14 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 23:15:14 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:21:42 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:21:43 - root - INFO - OPTIONS /api/v1/consultations/ - 状态码: 200 - 耗时: 0.00ms
+2026-03-04 23:21:43 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.58ms
+2026-03-04 23:23:22 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.62ms
+2026-03-04 23:23:24 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 23:23:24 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.02ms
+2026-03-04 23:23:32 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.53ms
+2026-03-04 23:23:32 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 23:23:45 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.54ms
+2026-03-04 23:23:45 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:23:45 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-04 23:23:45 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:23:47 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.99ms
+2026-03-04 23:23:49 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:23:49 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-04 23:25:17 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 23:25:17 - root - INFO - 调试模式: True
+2026-03-04 23:25:17 - root - INFO - 数据库表创建完成
+2026-03-04 23:25:17 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 23:25:58 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 165.53ms
+2026-03-04 23:26:00 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 23:26:02 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-04 23:26:02 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-04 23:28:28 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.60ms
+2026-03-04 23:28:33 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 12.99ms
+2026-03-04 23:28:39 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.63ms
+2026-03-04 23:28:39 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-04 23:28:44 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:28:44 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 7.01ms
+2026-03-04 23:28:46 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.99ms
+2026-03-04 23:28:46 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:28:46 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-04 23:37:07 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-04 23:37:07 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.56ms
+2026-03-04 23:37:07 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.62ms
+2026-03-04 23:37:08 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 23:37:08 - root - INFO - 数据库连接已关闭
+2026-03-04 23:37:10 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 23:37:10 - root - INFO - 调试模式: True
+2026-03-04 23:37:10 - root - INFO - 数据库表创建完成
+2026-03-04 23:37:10 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 23:37:10 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 3.00ms
+2026-03-04 23:37:10 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 126.81ms
+2026-03-04 23:37:10 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 127.81ms
+2026-03-04 23:37:11 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 25.56ms
+2026-03-04 23:43:28 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 23:43:28 - root - INFO - 数据库连接已关闭
+2026-03-04 23:43:31 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 23:43:31 - root - INFO - 调试模式: True
+2026-03-04 23:43:31 - root - INFO - 数据库表创建完成
+2026-03-04 23:43:31 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 23:49:47 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 23:49:47 - root - INFO - 数据库连接已关闭
+2026-03-04 23:49:50 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 23:49:50 - root - INFO - 调试模式: True
+2026-03-04 23:49:50 - root - INFO - 数据库表创建完成
+2026-03-04 23:49:50 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 23:51:15 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 23:51:15 - root - INFO - 数据库连接已关闭
+2026-03-04 23:51:18 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 23:51:18 - root - INFO - 调试模式: True
+2026-03-04 23:51:19 - root - INFO - 数据库表创建完成
+2026-03-04 23:51:19 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 23:51:35 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 140.90ms
+2026-03-04 23:51:36 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-04 23:51:36 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 6.73ms
+2026-03-04 23:51:46 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-04 23:51:46 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-04 23:51:46 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-04 23:52:55 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 23:52:55 - root - INFO - 数据库连接已关闭
+2026-03-04 23:52:59 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 23:52:59 - root - INFO - 调试模式: True
+2026-03-04 23:52:59 - root - INFO - 数据库表创建完成
+2026-03-04 23:52:59 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 23:56:11 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-04 23:56:11 - root - INFO - 数据库连接已关闭
+2026-03-04 23:56:14 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-04 23:56:14 - root - INFO - 调试模式: True
+2026-03-04 23:56:14 - root - INFO - 数据库表创建完成
+2026-03-04 23:56:14 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-04 23:56:14 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 2.55ms
+2026-03-04 23:56:14 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 100.59ms
+2026-03-04 23:56:15 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 6.00ms
+2026-03-05 16:31:25 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 2.99ms
+2026-03-05 16:31:25 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 16:31:25 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 8.99ms
+2026-03-05 16:31:27 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 2.00ms
+2026-03-05 16:31:27 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 16:31:27 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 16:31:30 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 1.01ms
+2026-03-05 16:31:32 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 1.99ms
+2026-03-05 16:33:26 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 16:33:26 - root - INFO - 数据库连接已关闭
+2026-03-05 16:33:32 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 16:33:32 - root - INFO - 调试模式: True
+2026-03-05 16:33:32 - root - INFO - 数据库表创建完成
+2026-03-05 16:33:32 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 16:34:38 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 16:34:38 - root - INFO - 调试模式: True
+2026-03-05 16:34:38 - root - INFO - 数据库表创建完成
+2026-03-05 16:34:38 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 16:35:36 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 9.68ms
+2026-03-05 16:35:37 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-05 16:35:37 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 93.89ms
+2026-03-05 16:35:39 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 2.31ms
+2026-03-05 16:36:05 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 2.00ms
+2026-03-05 16:36:06 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-05 16:36:06 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 16:36:09 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 2.00ms
+2026-03-05 16:37:24 - root - INFO - GET /api/v1/api/v1/consultations - 状态码: 404 - 耗时: 1.01ms
+2026-03-05 16:37:31 - root - INFO - GET /api/v1/api/v1/consultations - 状态码: 404 - 耗时: 0.00ms
+2026-03-05 16:37:41 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 16:37:41 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.02ms
+2026-03-05 16:42:27 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 1.99ms
+2026-03-05 16:42:27 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 16:42:27 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 16:42:30 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 2.01ms
+2026-03-05 16:42:34 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 5.55ms
+2026-03-05 16:42:47 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 249.74ms
+2026-03-05 16:42:47 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.55ms
+2026-03-05 16:42:47 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 16:42:49 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 16:42:49 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-05 16:43:26 - root - INFO - POST /api/v1/consultations - 状态码: 307 - 耗时: 0.59ms
+2026-03-05 16:43:27 - root - INFO - OPTIONS /api/v1/consultations/ - 状态码: 200 - 耗时: 0.00ms
+2026-03-05 16:43:27 - root - INFO - POST /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-05 16:45:43 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.53ms
+2026-03-05 16:45:44 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.56ms
+2026-03-05 16:48:03 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 16:48:04 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.17ms
+2026-03-05 16:48:24 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 16:48:24 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.14ms
+2026-03-05 16:48:31 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.02ms
+2026-03-05 16:48:31 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-05 16:48:38 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 13.34ms
+2026-03-05 16:48:42 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.61ms
+2026-03-05 16:48:42 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-05 17:16:15 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 17:16:15 - root - INFO - 调试模式: True
+2026-03-05 17:16:15 - root - INFO - 数据库表创建完成
+2026-03-05 17:16:15 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 17:16:43 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 164.70ms
+2026-03-05 17:16:58 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.00ms
+2026-03-05 17:16:59 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:16:59 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 11.01ms
+2026-03-05 17:17:05 - root - INFO - PUT /api/v1/users/1 - 状态码: 404 - 耗时: 13.80ms
+2026-03-05 17:17:06 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 17:17:07 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.00ms
+2026-03-05 17:17:08 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.02ms
+2026-03-05 17:17:08 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-05 17:17:25 - root - INFO - POST /api/v1/consultations - 状态码: 307 - 耗时: 1.03ms
+2026-03-05 17:17:25 - root - INFO - OPTIONS /api/v1/consultations/ - 状态码: 200 - 耗时: 0.00ms
+2026-03-05 17:17:25 - root - INFO - POST /api/v1/consultations/ - 状态码: 401 - 耗时: 0.56ms
+2026-03-05 17:18:03 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.55ms
+2026-03-05 17:18:03 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.53ms
+2026-03-05 17:18:46 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-05 17:18:46 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.06ms
+2026-03-05 17:18:50 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.83ms
+2026-03-05 17:18:50 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 17:20:31 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-05 17:20:31 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.79ms
+2026-03-05 17:23:10 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.25ms
+2026-03-05 17:23:49 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 250.35ms
+2026-03-05 17:23:49 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.20ms
+2026-03-05 17:23:49 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.99ms
+2026-03-05 17:24:05 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:24:05 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-05 17:24:06 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 17:24:06 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.25ms
+2026-03-05 17:24:09 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:24:09 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 17:24:10 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.57ms
+2026-03-05 17:24:10 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 17:24:14 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 17:24:14 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-05 17:24:21 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:24:21 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.01ms
+2026-03-05 17:24:22 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:24:22 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.99ms
+2026-03-05 17:24:32 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-05 17:24:32 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.57ms
+2026-03-05 17:24:46 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.01ms
+2026-03-05 17:24:46 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 17:24:54 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:24:54 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 17:24:55 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.59ms
+2026-03-05 17:24:55 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.04ms
+2026-03-05 17:25:33 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.71ms
+2026-03-05 17:25:33 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 2.78ms
+2026-03-05 17:26:27 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 234.97ms
+2026-03-05 17:26:27 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-05 17:26:27 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.02ms
+2026-03-05 17:27:07 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.99ms
+2026-03-05 17:27:07 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 17:27:55 - root - INFO - POST /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:27:55 - root - INFO - OPTIONS /api/v1/consultations/ - 状态码: 200 - 耗时: 0.00ms
+2026-03-05 17:27:55 - root - INFO - POST /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-05 17:39:11 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 17:39:11 - root - INFO - 调试模式: True
+2026-03-05 17:39:11 - root - INFO - 数据库表创建完成
+2026-03-05 17:39:11 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 17:39:31 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 130.66ms
+2026-03-05 17:39:32 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 17:39:32 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 17:39:32 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.99ms
+2026-03-05 17:39:32 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.54ms
+2026-03-05 17:39:33 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.98ms
+2026-03-05 19:48:40 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 2.00ms
+2026-03-05 19:48:40 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 19:48:40 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.03ms
+2026-03-05 19:48:42 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-05 19:48:42 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 18.00ms
+2026-03-05 19:48:44 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 2.00ms
+2026-03-05 19:48:45 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 19:48:47 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 19:48:51 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 19:48:51 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 19:48:55 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 19:48:55 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.00ms
+2026-03-05 19:48:59 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 2.01ms
+2026-03-05 19:49:06 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 3.01ms
+2026-03-05 19:49:14 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 255.10ms
+2026-03-05 19:49:14 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.58ms
+2026-03-05 19:49:14 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.30ms
+2026-03-05 19:49:18 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 19:49:18 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-05 19:51:11 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:51:11 - root - INFO - 数据库连接已关闭
+2026-03-05 19:51:15 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:51:15 - root - INFO - 调试模式: True
+2026-03-05 19:51:15 - root - INFO - 数据库表创建完成
+2026-03-05 19:51:15 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:51:19 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:51:19 - root - INFO - 数据库连接已关闭
+2026-03-05 19:51:22 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:51:22 - root - INFO - 调试模式: True
+2026-03-05 19:51:22 - root - INFO - 数据库表创建完成
+2026-03-05 19:51:22 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:51:39 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:51:39 - root - INFO - 数据库连接已关闭
+2026-03-05 19:52:04 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:52:04 - root - INFO - 调试模式: True
+2026-03-05 19:52:04 - root - INFO - 数据库表创建完成
+2026-03-05 19:52:04 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:52:20 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 140.41ms
+2026-03-05 19:52:20 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 19:52:20 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.97ms
+2026-03-05 19:52:23 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 19:52:23 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 19:52:25 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 13.00ms
+2026-03-05 19:52:25 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 19:52:25 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 19:52:27 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 19:52:30 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.17ms
+2026-03-05 19:52:30 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 5.03ms
+2026-03-05 19:52:31 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 19:52:31 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 7.01ms
+2026-03-05 19:52:41 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 249.67ms
+2026-03-05 19:52:41 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 19:52:41 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 19:52:47 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 19:52:47 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 19:53:39 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:53:39 - root - INFO - 数据库连接已关闭
+2026-03-05 19:53:42 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:53:42 - root - INFO - 调试模式: True
+2026-03-05 19:53:42 - root - INFO - 数据库表创建完成
+2026-03-05 19:53:42 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:53:46 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:53:46 - root - INFO - 数据库连接已关闭
+2026-03-05 19:53:48 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:53:48 - root - INFO - 调试模式: True
+2026-03-05 19:53:48 - root - INFO - 数据库表创建完成
+2026-03-05 19:53:48 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:54:29 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:54:29 - root - INFO - 调试模式: True
+2026-03-05 19:54:29 - root - INFO - 数据库表创建完成
+2026-03-05 19:54:29 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:54:35 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.01ms
+2026-03-05 19:54:35 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 97.42ms
+2026-03-05 19:54:36 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 23.99ms
+2026-03-05 19:54:36 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.99ms
+2026-03-05 19:54:36 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 19:54:38 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 19:54:44 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 259.27ms
+2026-03-05 19:54:44 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.57ms
+2026-03-05 19:54:44 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 19:54:49 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 19:54:49 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.58ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.01ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 5.00ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.77ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 16.37ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.00ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.58ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 19:56:12 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 2.00ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.01ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 10.01ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 4.00ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.56ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.00ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 20.01ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 2.27ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 6.38ms
+2026-03-05 19:56:30 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.84ms
+2026-03-05 19:56:43 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:56:43 - root - INFO - 数据库连接已关闭
+2026-03-05 19:56:46 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:56:46 - root - INFO - 调试模式: True
+2026-03-05 19:56:46 - root - INFO - 数据库表创建完成
+2026-03-05 19:56:46 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:57:27 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:57:27 - root - INFO - 数据库连接已关闭
+2026-03-05 19:57:30 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:57:30 - root - INFO - 调试模式: True
+2026-03-05 19:57:30 - root - INFO - 数据库表创建完成
+2026-03-05 19:57:30 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:57:48 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:57:48 - root - INFO - 数据库连接已关闭
+2026-03-05 19:57:50 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:57:50 - root - INFO - 调试模式: True
+2026-03-05 19:57:51 - root - INFO - 数据库表创建完成
+2026-03-05 19:57:51 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:58:02 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:58:02 - root - INFO - 数据库连接已关闭
+2026-03-05 19:58:05 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:58:05 - root - INFO - 调试模式: True
+2026-03-05 19:58:05 - root - INFO - 数据库表创建完成
+2026-03-05 19:58:05 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:58:11 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:58:11 - root - INFO - 数据库连接已关闭
+2026-03-05 19:58:14 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:58:14 - root - INFO - 调试模式: True
+2026-03-05 19:58:14 - root - INFO - 数据库表创建完成
+2026-03-05 19:58:14 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:58:22 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:58:22 - root - INFO - 数据库连接已关闭
+2026-03-05 19:58:32 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:58:32 - root - INFO - 调试模式: True
+2026-03-05 19:58:32 - root - INFO - 数据库表创建完成
+2026-03-05 19:58:32 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:58:47 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:58:47 - root - INFO - 数据库连接已关闭
+2026-03-05 19:58:50 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:58:50 - root - INFO - 调试模式: True
+2026-03-05 19:58:50 - root - INFO - 数据库表创建完成
+2026-03-05 19:58:50 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:58:56 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:58:56 - root - INFO - 数据库连接已关闭
+2026-03-05 19:58:58 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 19:58:58 - root - INFO - 调试模式: True
+2026-03-05 19:58:58 - root - INFO - 数据库表创建完成
+2026-03-05 19:58:58 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 19:58:58 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 4.07ms
+2026-03-05 19:58:58 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 5.07ms
+2026-03-05 19:58:58 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 116.94ms
+2026-03-05 19:58:58 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 122.40ms
+2026-03-05 19:58:58 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 2.99ms
+2026-03-05 19:58:58 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 4.00ms
+2026-03-05 19:58:59 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.09ms
+2026-03-05 19:58:59 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-05 19:58:59 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.00ms
+2026-03-05 19:58:59 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 4.12ms
+2026-03-05 19:59:24 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 19:59:24 - root - INFO - 数据库连接已关闭
+2026-03-05 20:00:38 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 20:00:38 - root - INFO - 调试模式: True
+2026-03-05 20:00:38 - root - INFO - 数据库表创建完成
+2026-03-05 20:00:38 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 20:00:57 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 9.99ms
+2026-03-05 20:00:58 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 20:00:58 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 0.55ms
+2026-03-05 20:01:05 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 146.25ms
+2026-03-05 20:01:06 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 20:01:06 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.00ms
+2026-03-05 20:01:08 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 20:01:08 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 8.00ms
+2026-03-05 20:01:24 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 5.00ms
+2026-03-05 20:01:26 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 20:01:26 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.18ms
+2026-03-05 20:01:38 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 1.00ms
+2026-03-05 20:01:38 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 4.88ms
+2026-03-05 20:01:49 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 255.55ms
+2026-03-05 20:01:49 - root - INFO - GET /api/v1/articles - 状态码: 307 - 耗时: 0.80ms
+2026-03-05 20:01:49 - root - INFO - GET /api/v1/articles/ - 状态码: 200 - 耗时: 3.30ms
+2026-03-05 20:01:52 - root - INFO - GET /api/v1/consultations - 状态码: 307 - 耗时: 0.00ms
+2026-03-05 20:01:52 - root - INFO - GET /api/v1/consultations/ - 状态码: 401 - 耗时: 1.01ms
+2026-03-05 20:05:23 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 20:05:23 - root - INFO - 数据库连接已关闭
+2026-03-05 20:05:26 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 20:05:26 - root - INFO - 调试模式: True
+2026-03-05 20:05:26 - root - INFO - 数据库表创建完成
+2026-03-05 20:05:26 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 20:05:27 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 20:05:27 - root - INFO - 数据库连接已关闭
+2026-03-05 20:05:29 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 20:05:29 - root - INFO - 调试模式: True
+2026-03-05 20:05:30 - root - INFO - 数据库表创建完成
+2026-03-05 20:05:30 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 20:05:42 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 20:05:42 - root - INFO - 数据库连接已关闭
+2026-03-05 20:05:45 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 20:05:45 - root - INFO - 调试模式: True
+2026-03-05 20:05:45 - root - INFO - 数据库表创建完成
+2026-03-05 20:05:45 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 20:05:52 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 104.98ms
+2026-03-05 20:05:52 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 24.00ms
+2026-03-05 20:05:53 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 4.00ms
+2026-03-05 20:05:53 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 46.79ms
+2026-03-05 20:06:04 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 5.01ms
+2026-03-05 20:06:05 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 9.01ms
+2026-03-05 20:06:06 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 3.00ms
+2026-03-05 20:06:07 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-05 21:11:26 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'users.nickname' in 'field list'")
+[SQL: SELECT users.user_id AS users_user_id, users.username AS users_username, users.phone AS users_phone, users.email AS users_email, users.password_hash AS users_password_hash, users.avatar_url AS users_avatar_url, users.nickname AS users_nickname, users.gender AS users_gender, users.birthday AS users_birthday, users.status AS users_status, users.last_login_at AS users_last_login_at, users.created_at AS users_created_at, users.updated_at AS users_updated_at 
+FROM users 
+WHERE users.user_id = %(user_id_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'user_id_1': 1, 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:11:26 - root - INFO - GET /api/v1/auth/me - 状态码: 500 - 耗时: 71.99ms
+2026-03-05 21:11:26 - root - INFO - GET /api/v1/consultations - 状态码: 401 - 耗时: 2.00ms
+2026-03-05 21:11:31 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:11:31 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 12.01ms
+2026-03-05 21:11:49 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'users.nickname' in 'field list'")
+[SQL: SELECT users.user_id AS users_user_id, users.username AS users_username, users.phone AS users_phone, users.email AS users_email, users.password_hash AS users_password_hash, users.avatar_url AS users_avatar_url, users.nickname AS users_nickname, users.gender AS users_gender, users.birthday AS users_birthday, users.status AS users_status, users.last_login_at AS users_last_login_at, users.created_at AS users_created_at, users.updated_at AS users_updated_at 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'jian', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:11:49 - root - INFO - POST /api/v1/auth/login - 状态码: 500 - 耗时: 17.00ms
+2026-03-05 21:12:00 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 21:12:00 - root - INFO - 数据库连接已关闭
+2026-03-05 21:12:25 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 21:12:25 - root - INFO - 调试模式: True
+2026-03-05 21:12:25 - root - INFO - 数据库表创建完成
+2026-03-05 21:12:25 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 21:12:49 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'users.nickname' in 'field list'")
+[SQL: SELECT users.user_id AS users_user_id, users.username AS users_username, users.phone AS users_phone, users.email AS users_email, users.password_hash AS users_password_hash, users.avatar_url AS users_avatar_url, users.nickname AS users_nickname, users.gender AS users_gender, users.birthday AS users_birthday, users.status AS users_status, users.last_login_at AS users_last_login_at, users.created_at AS users_created_at, users.updated_at AS users_updated_at 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'jian', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:12:49 - root - INFO - POST /api/v1/auth/login - 状态码: 500 - 耗时: 86.56ms
+2026-03-05 21:13:00 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'users.nickname' in 'field list'")
+[SQL: SELECT users.user_id AS users_user_id, users.username AS users_username, users.phone AS users_phone, users.email AS users_email, users.password_hash AS users_password_hash, users.avatar_url AS users_avatar_url, users.nickname AS users_nickname, users.gender AS users_gender, users.birthday AS users_birthday, users.status AS users_status, users.last_login_at AS users_last_login_at, users.created_at AS users_created_at, users.updated_at AS users_updated_at 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'jian', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:13:00 - root - INFO - POST /api/v1/auth/register - 状态码: 500 - 耗时: 6.58ms
+2026-03-05 21:25:57 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 21:25:57 - root - INFO - 调试模式: True
+2026-03-05 21:25:57 - root - INFO - 数据库表创建完成
+2026-03-05 21:25:57 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 21:26:29 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'users.nickname' in 'field list'")
+[SQL: SELECT users.user_id AS users_user_id, users.username AS users_username, users.phone AS users_phone, users.email AS users_email, users.password_hash AS users_password_hash, users.avatar_url AS users_avatar_url, users.nickname AS users_nickname, users.gender AS users_gender, users.birthday AS users_birthday, users.status AS users_status, users.last_login_at AS users_last_login_at, users.created_at AS users_created_at, users.updated_at AS users_updated_at 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'jian', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:26:29 - root - INFO - POST /api/v1/auth/register - 状态码: 500 - 耗时: 94.23ms
+2026-03-05 21:26:39 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'users.nickname' in 'field list'")
+[SQL: SELECT users.user_id AS users_user_id, users.username AS users_username, users.phone AS users_phone, users.email AS users_email, users.password_hash AS users_password_hash, users.avatar_url AS users_avatar_url, users.nickname AS users_nickname, users.gender AS users_gender, users.birthday AS users_birthday, users.status AS users_status, users.last_login_at AS users_last_login_at, users.created_at AS users_created_at, users.updated_at AS users_updated_at 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'jian', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:26:39 - root - INFO - POST /api/v1/auth/login - 状态码: 500 - 耗时: 7.02ms
+2026-03-05 21:29:39 - root - INFO - POST /api/v1/auth/register - 状态码: 200 - 耗时: 245.76ms
+2026-03-05 21:29:39 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:29:39 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 12.82ms
+2026-03-05 21:29:52 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'consultation_records.title' in 'field list'")
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT consultation_records.consultation_id AS consultation_records_consultation_id, consultation_records.user_id AS consultation_records_user_id, consultation_records.doctor_id AS consultation_records_doctor_id, consultation_records.title AS consultation_records_title, consultation_records.symptoms AS consultation_records_symptoms, consultation_records.conversation_history AS consultation_records_conversation_history, consultation_records.ai_suggestion AS consultation_records_ai_suggestion, consultation_records.doctor_review AS consultation_records_doctor_review, consultation_records.severity_level AS consultation_records_severity_level, consultation_records.status AS consultation_records_status, consultation_records.created_at AS consultation_records_created_at, consultation_records.updated_at AS consultation_records_updated_at 
+FROM consultation_records 
+WHERE consultation_records.user_id = %(user_id_1)s) AS anon_1]
+[parameters: {'user_id_1': 17}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:29:52 - root - INFO - GET /api/v1/consultations - 状态码: 500 - 耗时: 25.75ms
+2026-03-05 21:31:17 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.22ms
+2026-03-05 21:31:19 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.01ms
+2026-03-05 21:31:36 - root - INFO - GET /api/v1/consultations/NaN - 状态码: 422 - 耗时: 13.85ms
+2026-03-05 21:31:40 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:31:40 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 4.00ms
+2026-03-05 21:31:47 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:31:47 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 5.99ms
+2026-03-05 21:31:48 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-05 21:35:25 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 21:35:25 - root - INFO - 数据库连接已关闭
+2026-03-05 21:35:46 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 21:35:46 - root - INFO - 调试模式: True
+2026-03-05 21:35:46 - root - INFO - 数据库表创建完成
+2026-03-05 21:35:46 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 21:35:49 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 131.12ms
+2026-03-05 21:35:49 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 15.00ms
+2026-03-05 21:35:50 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:35:50 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 9.00ms
+2026-03-05 21:35:53 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 6.00ms
+2026-03-05 21:35:53 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:35:53 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 5.35ms
+2026-03-05 21:35:54 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 4.00ms
+2026-03-05 21:35:56 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:35:56 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 6.00ms
+2026-03-05 21:36:05 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 21:36:05 - root - INFO - 数据库连接已关闭
+2026-03-05 21:36:24 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 21:36:24 - root - INFO - 调试模式: True
+2026-03-05 21:36:24 - root - INFO - 数据库表创建完成
+2026-03-05 21:36:24 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 21:36:38 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 389.72ms
+2026-03-05 21:36:38 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:36:38 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 14.72ms
+2026-03-05 21:36:52 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 21.11ms
+2026-03-05 21:36:55 - root - INFO - GET /api/v1/consultations/NaN - 状态码: 422 - 耗时: 11.01ms
+2026-03-05 21:36:57 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:36:57 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 5.00ms
+2026-03-05 21:37:00 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.52ms
+2026-03-05 21:37:02 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.summary' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:37:02 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 7.00ms
+2026-03-05 21:41:42 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 4.00ms
+2026-03-05 21:41:42 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.comment_count' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:41:42 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 5.00ms
+2026-03-05 21:47:41 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 21:47:41 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.comment_count' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:47:41 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 4.98ms
+2026-03-05 21:47:48 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.comment_count' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:47:48 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 9.03ms
+2026-03-05 21:47:58 - root - INFO - PUT /api/v1/users/17 - 状态码: 404 - 耗时: 9.40ms
+2026-03-05 21:48:00 - root - INFO - PUT /api/v1/users/17 - 状态码: 404 - 耗时: 7.04ms
+2026-03-05 21:48:09 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'articles.comment_count' in 'field list'")
+[SQL: SELECT articles.article_id AS articles_article_id, articles.doctor_id AS articles_doctor_id, articles.category_id AS articles_category_id, articles.title AS articles_title, articles.summary AS articles_summary, articles.content AS articles_content, articles.cover_image AS articles_cover_image, articles.tags AS articles_tags, articles.source AS articles_source, articles.view_count AS articles_view_count, articles.like_count AS articles_like_count, articles.comment_count AS articles_comment_count, articles.share_count AS articles_share_count, articles.status AS articles_status, articles.published_at AS articles_published_at, articles.created_at AS articles_created_at, articles.updated_at AS articles_updated_at 
+FROM articles 
+WHERE articles.status = %(status_1)s ORDER BY articles.published_at DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'status_1': 2, 'param_1': 0, 'param_2': 6}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 21:48:09 - root - INFO - GET /api/v1/articles - 状态码: 500 - 耗时: 4.58ms
+2026-03-05 21:50:37 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 6.02ms
+2026-03-05 21:50:40 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 6.01ms
+2026-03-05 21:51:18 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-05 21:51:18 - root - INFO - 数据库连接已关闭
+2026-03-05 21:51:55 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-05 21:51:55 - root - INFO - 调试模式: True
+2026-03-05 21:51:55 - root - INFO - 数据库表创建完成
+2026-03-05 21:51:55 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-05 21:52:12 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 146.22ms
+2026-03-05 21:52:22 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 263.61ms
+2026-03-05 21:52:22 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 6.88ms
+2026-03-05 21:52:44 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 19.18ms
+2026-03-05 21:52:56 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 4.99ms
+2026-03-05 21:52:59 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.99ms
+2026-03-05 21:55:37 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.69ms
+2026-03-05 21:56:06 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-05 21:58:44 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.85ms
+2026-03-05 21:58:45 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 5.02ms
+2026-03-05 21:58:48 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 5.00ms
+2026-03-05 21:58:53 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-05 21:58:58 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 3.30ms
+2026-03-05 22:02:11 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 6.00ms
+2026-03-05 22:02:20 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 4.00ms
+2026-03-05 22:02:24 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 4.01ms
+2026-03-05 22:02:37 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.00ms
+2026-03-05 22:02:57 - root - ERROR - Database error: (pymysql.err.OperationalError) (1054, "Unknown column 'sender_id' in 'field list'")
+[SQL: INSERT INTO consultation_messages (consultation_id, sender_type, sender_id, content, message_metadata, created_at) VALUES (%(consultation_id)s, %(sender_type)s, %(sender_id)s, %(content)s, %(message_metadata)s, %(created_at)s)]
+[parameters: {'consultation_id': 13, 'sender_type': 'user', 'sender_id': 17, 'content': '头疼、感冒、有点发烧', 'message_metadata': 'null', 'created_at': datetime.datetime(2026, 3, 5, 14, 2, 57, 706325)}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-05 22:02:57 - root - INFO - POST /api/v1/consultations - 状态码: 500 - 耗时: 56.11ms
+2026-03-05 23:16:29 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 9.99ms
+2026-03-05 23:16:30 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.01ms
+2026-03-05 23:16:35 - root - INFO - GET /api/v1/consultations/13 - 状态码: 200 - 耗时: 13.84ms
+2026-03-05 23:16:35 - root - INFO - GET /api/v1/consultations/13/reports - 状态码: 200 - 耗时: 9.00ms
+2026-03-05 23:16:36 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.99ms
+2026-03-05 23:16:37 - root - INFO - GET /api/v1/consultations/13 - 状态码: 200 - 耗时: 10.01ms
+2026-03-05 23:16:37 - root - INFO - GET /api/v1/consultations/13/messages - 状态码: 200 - 耗时: 9.00ms
+2026-03-05 23:16:46 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 13.45ms
+2026-03-05 23:16:51 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.01ms
+2026-03-06 22:57:14 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-06 22:57:14 - root - INFO - 调试模式: True
+2026-03-06 22:57:14 - root - INFO - 数据库表创建完成
+2026-03-06 22:57:14 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-06 22:57:46 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 142.32ms
+2026-03-06 22:57:54 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 305.98ms
+2026-03-06 22:57:54 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 5.41ms
+2026-03-06 22:58:11 - root - INFO - PUT /api/v1/users/17 - 状态码: 404 - 耗时: 27.53ms
+2026-03-06 22:58:17 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 25.92ms
+2026-03-06 22:58:22 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 4.99ms
+2026-03-06 22:58:26 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.01ms
+2026-03-06 22:58:29 - root - INFO - GET /api/v1/consultations/13 - 状态码: 200 - 耗时: 9.00ms
+2026-03-06 22:58:29 - root - INFO - GET /api/v1/consultations/13/messages - 状态码: 200 - 耗时: 10.99ms
+2026-03-06 22:58:31 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 22:58:33 - root - INFO - GET /api/v1/consultations/13 - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 22:58:33 - root - INFO - GET /api/v1/consultations/13/reports - 状态码: 200 - 耗时: 11.99ms
+2026-03-06 22:58:35 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.01ms
+2026-03-06 22:58:56 - app.services.ai - ERROR - AI API请求错误: Illegal header value b'Bearer '
+2026-03-06 22:58:56 - root - INFO - POST /api/v1/consultations - 状态码: 503 - 耗时: 3544.08ms
+2026-03-06 22:59:05 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 5.00ms
+2026-03-06 22:59:05 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.59ms
+2026-03-06 22:59:17 - root - INFO - GET /api/v1/consultations/14 - 状态码: 200 - 耗时: 6.80ms
+2026-03-06 22:59:17 - root - INFO - GET /api/v1/consultations/14/messages - 状态码: 200 - 耗时: 5.99ms
+2026-03-06 22:59:19 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 9.00ms
+2026-03-06 22:59:26 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 16.58ms
+2026-03-06 22:59:27 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.99ms
+2026-03-06 22:59:29 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 5.46ms
+2026-03-06 22:59:29 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.46ms
+2026-03-06 22:59:31 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 6.00ms
+2026-03-06 22:59:32 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 6.00ms
+2026-03-06 22:59:34 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 22:59:34 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 22:59:36 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.01ms
+2026-03-06 22:59:39 - root - INFO - GET /api/v1/consultations/14 - 状态码: 200 - 耗时: 6.68ms
+2026-03-06 22:59:39 - root - INFO - GET /api/v1/consultations/14/reports - 状态码: 200 - 耗时: 5.00ms
+2026-03-06 22:59:41 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.99ms
+2026-03-06 22:59:42 - root - INFO - GET /api/v1/consultations/14 - 状态码: 200 - 耗时: 6.99ms
+2026-03-06 22:59:43 - root - INFO - GET /api/v1/consultations/14/messages - 状态码: 200 - 耗时: 6.01ms
+2026-03-06 22:59:45 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.92ms
+2026-03-06 23:22:37 - app.services.ai - ERROR - AI API请求错误: Illegal header value b'Bearer '
+2026-03-06 23:22:37 - root - INFO - POST /api/v1/consultations - 状态码: 503 - 耗时: 1807.52ms
+2026-03-06 23:23:42 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:23:42 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:23:45 - root - INFO - GET /api/v1/consultations/15 - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 23:23:45 - root - INFO - GET /api/v1/consultations/15/messages - 状态码: 200 - 耗时: 8.41ms
+2026-03-06 23:24:33 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 23:24:35 - root - INFO - GET /api/v1/consultations/15 - 状态码: 200 - 耗时: 6.98ms
+2026-03-06 23:24:35 - root - INFO - GET /api/v1/consultations/15/reports - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:24:41 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 6.02ms
+2026-03-06 23:32:56 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.01ms
+2026-03-06 23:33:17 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 6.00ms
+2026-03-06 23:33:31 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 23:35:31 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.66ms
+2026-03-06 23:37:20 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-06 23:37:20 - root - INFO - 数据库连接已关闭
+2026-03-06 23:37:23 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-06 23:37:23 - root - INFO - 调试模式: True
+2026-03-06 23:37:24 - root - INFO - 数据库表创建完成
+2026-03-06 23:37:24 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-06 23:37:50 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-06 23:37:50 - root - INFO - 数据库连接已关闭
+2026-03-06 23:37:53 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-06 23:37:53 - root - INFO - 调试模式: True
+2026-03-06 23:37:53 - root - INFO - 数据库表创建完成
+2026-03-06 23:37:53 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-06 23:38:25 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-06 23:38:25 - root - INFO - 数据库连接已关闭
+2026-03-06 23:38:28 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-06 23:38:28 - root - INFO - 调试模式: True
+2026-03-06 23:38:28 - root - INFO - 数据库表创建完成
+2026-03-06 23:38:28 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-06 23:39:04 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-06 23:39:04 - root - INFO - 数据库连接已关闭
+2026-03-06 23:39:07 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-06 23:39:07 - root - INFO - 调试模式: True
+2026-03-06 23:39:07 - root - INFO - 数据库表创建完成
+2026-03-06 23:39:07 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-06 23:39:33 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 115.67ms
+2026-03-06 23:39:33 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 15.60ms
+2026-03-06 23:39:35 - root - INFO - GET /api/v1/consultations/15 - 状态码: 200 - 耗时: 10.00ms
+2026-03-06 23:39:35 - root - INFO - GET /api/v1/consultations/15/reports - 状态码: 200 - 耗时: 9.00ms
+2026-03-06 23:39:36 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 23:39:37 - root - INFO - GET /api/v1/consultations/14 - 状态码: 200 - 耗时: 7.99ms
+2026-03-06 23:39:37 - root - INFO - GET /api/v1/consultations/14/reports - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:39:39 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 23:39:40 - root - INFO - GET /api/v1/consultations/15 - 状态码: 200 - 耗时: 6.00ms
+2026-03-06 23:39:40 - root - INFO - GET /api/v1/consultations/15/messages - 状态码: 200 - 耗时: 9.01ms
+2026-03-06 23:39:42 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:39:42 - root - INFO - GET /api/v1/consultations/15 - 状态码: 200 - 耗时: 5.99ms
+2026-03-06 23:39:42 - root - INFO - GET /api/v1/consultations/15/messages - 状态码: 200 - 耗时: 6.00ms
+2026-03-06 23:39:46 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.01ms
+2026-03-06 23:39:46 - root - INFO - GET /api/v1/consultations/15 - 状态码: 200 - 耗时: 5.00ms
+2026-03-06 23:39:46 - root - INFO - GET /api/v1/consultations/15/messages - 状态码: 200 - 耗时: 6.02ms
+2026-03-06 23:39:47 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.65ms
+2026-03-06 23:39:48 - root - INFO - GET /api/v1/consultations/14 - 状态码: 200 - 耗时: 6.99ms
+2026-03-06 23:39:48 - root - INFO - GET /api/v1/consultations/14/messages - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:39:48 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 23:39:48 - root - INFO - GET /api/v1/consultations/14 - 状态码: 200 - 耗时: 7.22ms
+2026-03-06 23:39:48 - root - INFO - GET /api/v1/consultations/14/messages - 状态码: 200 - 耗时: 6.00ms
+2026-03-06 23:39:48 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 9.00ms
+2026-03-06 23:39:49 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 6.01ms
+2026-03-06 23:39:51 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:40:50 - app.services.ai - ERROR - AI API请求错误: Illegal header value b'Bearer '
+2026-03-06 23:40:50 - root - WARNING - AI服务暂不可用，问诊创建成功但无AI回复: AI服务请求失败
+2026-03-06 23:40:50 - root - INFO - POST /api/v1/consultations - 状态码: 200 - 耗时: 1766.73ms
+2026-03-06 23:40:50 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.73ms
+2026-03-06 23:40:55 - root - INFO - GET /api/v1/consultations/16 - 状态码: 200 - 耗时: 9.24ms
+2026-03-06 23:40:55 - root - INFO - GET /api/v1/consultations/16/reports - 状态码: 200 - 耗时: 7.00ms
+2026-03-06 23:40:57 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 7.42ms
+2026-03-06 23:40:59 - root - INFO - GET /api/v1/consultations/16 - 状态码: 200 - 耗时: 6.09ms
+2026-03-06 23:40:59 - root - INFO - GET /api/v1/consultations/16/messages - 状态码: 200 - 耗时: 8.00ms
+2026-03-06 23:41:05 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.00ms
+2026-03-08 19:46:07 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 19:46:07 - root - INFO - 调试模式: True
+2026-03-08 19:46:07 - root - INFO - 数据库表创建完成
+2026-03-08 19:46:07 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 19:46:35 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 13.00ms
+2026-03-08 19:46:35 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 195.51ms
+2026-03-08 19:46:37 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 2.01ms
+2026-03-08 19:46:39 - root - INFO - POST /api/v1/auth/logout - 状态码: 401 - 耗时: 2.02ms
+2026-03-08 19:46:42 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 5.00ms
+2026-03-08 19:46:42 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 7.00ms
+2026-03-08 19:46:44 - root - INFO - GET /api/v1/auth/me - 状态码: 401 - 耗时: 2.74ms
+2026-03-08 19:46:51 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 491.78ms
+2026-03-08 19:46:51 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 8.11ms
+2026-03-08 19:46:55 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 6.00ms
+2026-03-08 19:46:58 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 27.00ms
+2026-03-08 19:47:00 - root - INFO - GET /api/v1/consultations/16 - 状态码: 200 - 耗时: 12.70ms
+2026-03-08 19:47:00 - root - INFO - GET /api/v1/consultations/16/reports - 状态码: 200 - 耗时: 11.00ms
+2026-03-08 19:47:02 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 19:47:03 - root - INFO - GET /api/v1/consultations/16 - 状态码: 200 - 耗时: 14.32ms
+2026-03-08 19:47:03 - root - INFO - GET /api/v1/consultations/16/messages - 状态码: 200 - 耗时: 14.00ms
+2026-03-08 19:47:05 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 19:48:13 - app.services.ai - ERROR - AI API请求错误: Illegal header value b'Bearer '
+2026-03-08 19:48:13 - root - WARNING - AI服务暂不可用，问诊创建成功但无AI回复: AI服务请求失败
+2026-03-08 19:48:13 - root - INFO - POST /api/v1/consultations - 状态码: 200 - 耗时: 1546.30ms
+2026-03-08 19:48:14 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 16.01ms
+2026-03-08 19:48:33 - root - INFO - GET /api/v1/consultations/17 - 状态码: 200 - 耗时: 16.66ms
+2026-03-08 19:48:33 - root - INFO - GET /api/v1/consultations/17/messages - 状态码: 200 - 耗时: 12.01ms
+2026-03-08 19:48:37 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 11.00ms
+2026-03-08 19:51:02 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 18.01ms
+2026-03-08 19:51:02 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 9.65ms
+2026-03-08 19:51:03 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.96ms
+2026-03-08 19:51:05 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 20.01ms
+2026-03-08 19:51:11 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.01ms
+2026-03-08 19:54:10 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.00ms
+2026-03-08 19:54:11 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.99ms
+2026-03-08 19:54:13 - root - INFO - GET /api/v1/consultations/17 - 状态码: 200 - 耗时: 14.00ms
+2026-03-08 19:54:13 - root - INFO - GET /api/v1/consultations/17/messages - 状态码: 200 - 耗时: 9.99ms
+2026-03-08 19:54:14 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 19:54:15 - root - INFO - GET /api/v1/consultations/17 - 状态码: 200 - 耗时: 15.99ms
+2026-03-08 19:54:15 - root - INFO - GET /api/v1/consultations/17/reports - 状态码: 200 - 耗时: 8.99ms
+2026-03-08 19:54:17 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 9.99ms
+2026-03-08 19:54:52 - app.services.ai - ERROR - AI API请求错误: Illegal header value b'Bearer '
+2026-03-08 19:54:52 - root - WARNING - AI服务暂不可用，问诊创建成功但无AI回复: AI服务请求失败
+2026-03-08 19:54:52 - root - INFO - POST /api/v1/consultations - 状态码: 200 - 耗时: 1576.81ms
+2026-03-08 19:58:34 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 8.87ms
+2026-03-08 19:58:34 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 19:58:34 - root - INFO - 数据库连接已关闭
+2026-03-08 19:58:39 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 19:58:39 - root - INFO - 调试模式: True
+2026-03-08 19:58:39 - root - INFO - 数据库表创建完成
+2026-03-08 19:58:39 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:01:44 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:01:44 - root - INFO - 数据库连接已关闭
+2026-03-08 20:03:00 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:03:00 - root - INFO - 调试模式: True
+2026-03-08 20:03:01 - root - INFO - 数据库表创建完成
+2026-03-08 20:03:01 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:03:01 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 357.63ms
+2026-03-08 20:03:01 - root - INFO - GET /api/v1/consultations/16 - 状态码: 200 - 耗时: 358.65ms
+2026-03-08 20:03:01 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 359.63ms
+2026-03-08 20:03:01 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 360.64ms
+2026-03-08 20:03:01 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 361.63ms
+2026-03-08 20:03:01 - root - INFO - GET /api/v1/consultations/17 - 状态码: 200 - 耗时: 362.65ms
+2026-03-08 20:03:01 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 362.65ms
+2026-03-08 20:03:01 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 368.65ms
+2026-03-08 20:03:01 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 785.95ms
+2026-03-08 20:04:01 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:04:01 - root - INFO - 调试模式: True
+2026-03-08 20:04:01 - root - INFO - 数据库表创建完成
+2026-03-08 20:04:01 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:04:27 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 214.79ms
+2026-03-08 20:04:37 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 438.30ms
+2026-03-08 20:04:37 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 8.76ms
+2026-03-08 20:04:41 - root - INFO - POST /api/v1/auth/logout - 状态码: 200 - 耗时: 16.31ms
+2026-03-08 20:04:49 - root - INFO - POST /api/v1/auth/login - 状态码: 200 - 耗时: 387.70ms
+2026-03-08 20:04:49 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 10.31ms
+2026-03-08 20:04:50 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 20.00ms
+2026-03-08 20:04:55 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 11.55ms
+2026-03-08 20:04:55 - root - INFO - GET /api/v1/consultations/18/reports - 状态码: 200 - 耗时: 13.00ms
+2026-03-08 20:05:05 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.00ms
+2026-03-08 20:05:06 - root - INFO - GET /api/v1/consultations/13 - 状态码: 200 - 耗时: 15.91ms
+2026-03-08 20:05:06 - root - INFO - GET /api/v1/consultations/13/reports - 状态码: 200 - 耗时: 9.01ms
+2026-03-08 20:05:08 - root - INFO - POST /api/v1/consultations/13/cancel - 状态码: 200 - 耗时: 24.98ms
+2026-03-08 20:05:10 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 20:05:14 - root - INFO - GET /api/v1/consultations/13 - 状态码: 200 - 耗时: 18.00ms
+2026-03-08 20:05:14 - root - INFO - GET /api/v1/consultations/13/reports - 状态码: 200 - 耗时: 10.64ms
+2026-03-08 20:05:16 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 13.00ms
+2026-03-08 20:05:18 - root - INFO - GET /api/v1/consultations/14 - 状态码: 200 - 耗时: 15.00ms
+2026-03-08 20:05:18 - root - INFO - GET /api/v1/consultations/14/reports - 状态码: 200 - 耗时: 10.63ms
+2026-03-08 20:05:21 - root - INFO - POST /api/v1/consultations/14/cancel - 状态码: 200 - 耗时: 21.30ms
+2026-03-08 20:05:22 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 9.00ms
+2026-03-08 20:05:29 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 15.57ms
+2026-03-08 20:05:29 - root - INFO - GET /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 12.41ms
+2026-03-08 20:05:42 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-08 20:05:42 - app.services.ai - ERROR - AI API调用失败: 400 - {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-4b37426b-5517-900f-9f03-28ccdfdf2076","request_id":"4b37426b-5517-900f-9f03-28ccdfdf2076"}
+2026-03-08 20:05:42 - root - WARNING - AI服务暂不可用: AI服务暂不可用
+2026-03-08 20:05:43 - root - INFO - POST /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 4078.41ms
+2026-03-08 20:05:43 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 9.41ms
+2026-03-08 20:06:18 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-08 20:06:18 - app.services.ai - ERROR - AI API调用失败: 400 - {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-e26fa1f1-5ef5-9ff2-9855-9c52434276b4","request_id":"e26fa1f1-5ef5-9ff2-9855-9c52434276b4"}
+2026-03-08 20:06:18 - root - WARNING - AI服务暂不可用: AI服务暂不可用
+2026-03-08 20:06:18 - root - INFO - POST /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 529.86ms
+2026-03-08 20:06:18 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 6.01ms
+2026-03-08 20:06:39 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-08 20:06:39 - app.services.ai - ERROR - AI API调用失败: 400 - {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-d026a436-3d8a-9883-a3aa-33481ed32259","request_id":"d026a436-3d8a-9883-a3aa-33481ed32259"}
+2026-03-08 20:06:39 - root - WARNING - AI服务暂不可用: AI服务暂不可用
+2026-03-08 20:06:39 - root - INFO - POST /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 436.46ms
+2026-03-08 20:06:39 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 8.00ms
+2026-03-08 20:10:53 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:10:53 - root - INFO - 数据库连接已关闭
+2026-03-08 20:10:58 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:10:58 - root - INFO - 调试模式: True
+2026-03-08 20:10:58 - root - INFO - 数据库表创建完成
+2026-03-08 20:10:58 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:11:04 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:11:04 - root - INFO - 数据库连接已关闭
+2026-03-08 20:11:09 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:11:09 - root - INFO - 调试模式: True
+2026-03-08 20:11:09 - root - INFO - 数据库表创建完成
+2026-03-08 20:11:09 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:11:19 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:11:19 - root - INFO - 数据库连接已关闭
+2026-03-08 20:11:23 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:11:23 - root - INFO - 调试模式: True
+2026-03-08 20:11:24 - root - INFO - 数据库表创建完成
+2026-03-08 20:11:24 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:11:41 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:11:41 - root - INFO - 数据库连接已关闭
+2026-03-08 20:11:46 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:11:46 - root - INFO - 调试模式: True
+2026-03-08 20:11:46 - root - INFO - 数据库表创建完成
+2026-03-08 20:11:46 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:11:49 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 185.70ms
+2026-03-08 20:11:49 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 32.30ms
+2026-03-08 20:11:49 - root - INFO - GET /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 19.00ms
+2026-03-08 20:11:59 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-08 20:11:59 - app.services.ai - INFO - AI API 响应状态码: 400
+2026-03-08 20:11:59 - app.services.ai - INFO - AI API 响应内容: {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-b54d16d4-284d-9ead-999d-d8ae5ca1af51","request_id":"b54d16d4-284d-9ead-999d-d8ae5ca1af51"}
+2026-03-08 20:11:59 - app.services.ai - ERROR - AI API调用失败: 400 - {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-b54d16d4-284d-9ead-999d-d8ae5ca1af51","request_id":"b54d16d4-284d-9ead-999d-d8ae5ca1af51"}
+2026-03-08 20:11:59 - root - WARNING - AI服务暂不可用: AI服务暂不可用: 400
+2026-03-08 20:11:59 - root - INFO - POST /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 4410.13ms
+2026-03-08 20:11:59 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 11.02ms
+2026-03-08 20:12:41 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:12:41 - root - INFO - 调试模式: True
+2026-03-08 20:12:41 - root - INFO - 数据库表创建完成
+2026-03-08 20:12:41 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:12:47 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 224.14ms
+2026-03-08 20:12:49 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 20.76ms
+2026-03-08 20:12:49 - root - INFO - GET /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 20.00ms
+2026-03-08 20:12:51 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.99ms
+2026-03-08 20:12:51 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 9.00ms
+2026-03-08 20:12:53 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 8.29ms
+2026-03-08 20:12:53 - root - INFO - GET /api/v1/articles - 状态码: 200 - 耗时: 6.30ms
+2026-03-08 20:12:56 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 11.58ms
+2026-03-08 20:13:01 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 11.65ms
+2026-03-08 20:13:02 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.99ms
+2026-03-08 20:13:06 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 19.92ms
+2026-03-08 20:13:06 - root - INFO - GET /api/v1/consultations/18/reports - 状态码: 200 - 耗时: 12.20ms
+2026-03-08 20:13:10 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.01ms
+2026-03-08 20:13:12 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 20.79ms
+2026-03-08 20:13:12 - root - INFO - GET /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 18.00ms
+2026-03-08 20:13:21 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-08 20:13:21 - app.services.ai - INFO - AI API 响应状态码: 400
+2026-03-08 20:13:21 - app.services.ai - INFO - AI API 响应内容: {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-734a9080-3c1f-9d0f-b6bf-ba3e5b652fdd","request_id":"734a9080-3c1f-9d0f-b6bf-ba3e5b652fdd"}
+2026-03-08 20:13:21 - app.services.ai - ERROR - AI API调用失败: 400 - {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-734a9080-3c1f-9d0f-b6bf-ba3e5b652fdd","request_id":"734a9080-3c1f-9d0f-b6bf-ba3e5b652fdd"}
+2026-03-08 20:13:21 - root - WARNING - AI服务暂不可用: AI服务暂不可用: 400
+2026-03-08 20:13:21 - root - INFO - POST /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 2220.56ms
+2026-03-08 20:13:21 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 12.55ms
+2026-03-08 20:13:23 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 11.00ms
+2026-03-08 20:14:09 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-08 20:14:09 - app.services.ai - INFO - AI API 响应状态码: 400
+2026-03-08 20:14:09 - app.services.ai - INFO - AI API 响应内容: {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-636ba8b6-8197-959a-95e6-3a59a092113e","request_id":"636ba8b6-8197-959a-95e6-3a59a092113e"}
+2026-03-08 20:14:09 - app.services.ai - ERROR - AI API调用失败: 400 - {"error":{"message":"<400> InternalError.Algo.InvalidParameter: Role must be in [\"user\", \"assistant\", \"system\", \"function\", \"plugin\", \"tool\"] and the role in last message must be in [\"user\", \"function\", \"tool\"]","type":"invalid_request_error","param":null,"code":"invalid_parameter_error"},"id":"chatcmpl-636ba8b6-8197-959a-95e6-3a59a092113e","request_id":"636ba8b6-8197-959a-95e6-3a59a092113e"}
+2026-03-08 20:14:09 - root - WARNING - AI服务暂不可用，问诊创建成功但无AI回复: AI服务暂不可用: 400
+2026-03-08 20:14:09 - root - INFO - POST /api/v1/consultations - 状态码: 200 - 耗时: 609.72ms
+2026-03-08 20:14:10 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 19.00ms
+2026-03-08 20:14:10 - root - INFO - GET /api/v1/consultations/19 - 状态码: 200 - 耗时: 22.99ms
+2026-03-08 20:14:10 - root - INFO - GET /api/v1/consultations/19/messages - 状态码: 200 - 耗时: 19.00ms
+2026-03-08 20:17:26 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:17:26 - root - INFO - 数据库连接已关闭
+2026-03-08 20:17:31 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:17:31 - root - INFO - 调试模式: True
+2026-03-08 20:17:31 - root - INFO - 数据库表创建完成
+2026-03-08 20:17:31 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:17:36 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:17:36 - root - INFO - 调试模式: True
+2026-03-08 20:17:36 - root - INFO - 数据库表创建完成
+2026-03-08 20:17:36 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:17:43 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 144.00ms
+2026-03-08 20:17:43 - root - INFO - GET /api/v1/consultations/19 - 状态码: 200 - 耗时: 33.01ms
+2026-03-08 20:17:43 - root - INFO - GET /api/v1/consultations/19/messages - 状态码: 200 - 耗时: 19.00ms
+2026-03-08 20:17:52 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 20:17:52 - app.services.ai - INFO - AI API 请求体: {"model": "qwen-turbo", "messages": [{"role": "system", "content": "\u4f60\u662f\u4e00\u4f4d\u4e13\u4e1a\u3001\u4eb2\u5207\u7684\u533b\u7597AI\u95ee\u8bca\u52a9\u624b\u3002\u4f60\u7684\u76ee\u6807\u66...
+2026-03-08 20:17:52 - app.services.ai - INFO - AI API 响应状态码: 200
+2026-03-08 20:17:52 - app.services.ai - INFO - AI API 响应内容: {"choices":[{"finish_reason":"stop","index":0,"message":{"content":"你好，感谢你和我分享你的症状。持续两周的咳嗽伴有低烧确实需要关注，我们可以一步步来了解具体情况。\n\n首先，我想问问你，这个咳嗽是干咳还是有痰？如果有痰的话，痰的颜色是什么样的呢？是白色、黄色还是绿色？\n\n另外，你的低烧体温是多少度呢？是一直维持在37.5℃左右，还是偶尔会升高到38℃以上？\n\n还有，这种咳嗽有没有什么特别的诱因？比如接触了冷空气、灰尘、花粉，或者是在特定的时间段（比如晚上）加重？\n\n同时，你有没有其他伴随症状，比如喉咙痛、流鼻涕、胸闷、乏力、盗汗等？\n\n如果方便的话，也请告诉我，你之前有没有患过类似的疾病，或者有没有慢性疾病，比如哮喘、慢性支气管炎之类的？有没有对某些药物或食物过敏的情况？\n\n这些信息能帮助我更好地了解你的状况，给你更合适的建议。","role":"assistant"}}],"created":1772972270,"id":"chatcmpl-2ce0f4a6-85f2-9364-9406-4
+2026-03-08 20:17:52 - root - INFO - POST /api/v1/consultations/19/messages - 状态码: 200 - 耗时: 2195.98ms
+2026-03-08 20:17:52 - root - INFO - GET /api/v1/consultations/19 - 状态码: 200 - 耗时: 10.00ms
+2026-03-08 20:19:03 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 20:19:03 - app.services.ai - INFO - AI API 请求体: {"model": "qwen-turbo", "messages": [{"role": "system", "content": "\u4f60\u662f\u4e00\u4f4d\u4e13\u4e1a\u3001\u4eb2\u5207\u7684\u533b\u7597AI\u95ee\u8bca\u52a9\u624b\u3002\u4f60\u7684\u76ee\u6807\u66...
+2026-03-08 20:19:03 - app.services.ai - INFO - AI API 响应状态码: 200
+2026-03-08 20:19:03 - app.services.ai - INFO - AI API 响应内容: {"choices":[{"finish_reason":"stop","index":0,"message":{"content":"谢谢你的详细描述。持续咳嗽两周，伴有低烧和黄痰，这种情况确实需要引起重视。为了更好地了解你的情况，我需要进一步询问一些问题：\n\n首先，你的咳嗽是否有加重的情况？比如在夜间或清晨更严重？有没有接触过感冒的人或者最近有没有着凉？\n\n其次，除了咳嗽和低烧，还有没有其他症状，比如喉咙痛、鼻塞、流涕、乏力、呼吸急促等？\n\n另外，你之前有没有患过呼吸道疾病，比如支气管炎、肺炎，或者有过哮喘之类的病史？有没有对某些药物过敏？\n\n如果有的话，这些信息可以帮助我们更准确地判断可能的原因。\n\n同时，请告诉我你现在是否在服用任何药物，或者有没有做过相关的检查，比如拍过胸片或验过血？","role":"assistant"}}],"created":1772972341,"id":"chatcmpl-24d8d637-65f1-9c0b-a92b-b5e7148fd710","model":"qwen-turbo","object":"chat.compl
+2026-03-08 20:19:03 - root - INFO - POST /api/v1/consultations/19/messages - 状态码: 200 - 耗时: 1846.64ms
+2026-03-08 20:19:03 - root - INFO - GET /api/v1/consultations/19 - 状态码: 200 - 耗时: 9.00ms
+2026-03-08 20:19:12 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 19.99ms
+2026-03-08 20:19:19 - root - INFO - GET /api/v1/consultations/19 - 状态码: 200 - 耗时: 18.00ms
+2026-03-08 20:19:19 - root - INFO - GET /api/v1/consultations/19/reports - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 20:19:23 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 20:19:23 - app.services.ai - INFO - AI API 请求体: {"model": "qwen-turbo", "messages": [{"role": "system", "content": "\u4f60\u662f\u4e00\u4f4d\u4e13\u4e1a\u7684\u533b\u7597AI\u52a9\u624b\uff0c\u8bf7\u6839\u636e\u95ee\u8bca\u8bb0\u5f55\u751f\u6210\u8b...
+2026-03-08 20:19:23 - app.services.ai - INFO - AI API 响应状态码: 200
+2026-03-08 20:19:23 - app.services.ai - INFO - AI API 响应内容: {"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\n    \"title\": \"咳嗽\",\n    \"patient_info\": {\"name\": \"未知\", \"age\": \"未知\", \"gender\": \"未知\"},\n    \"chief_complaint\": \"持续咳嗽2周，伴有低烧\",\n    \"history_of_present_illness\": \"患者持续咳嗽已有2周，伴有低烧，体温维持在37.5℃左右。咳嗽时有痰，痰的颜色为黄色。\",\n    \"ai_diagnosis\": \"可能为呼吸道感染，如支气管炎或肺炎。\",\n    \"doctor_review\": \"医生审核中\",\n    \"suggestions\": [\n        \"建议进行胸部X光检查以排除肺部感染。\",\n        \"建议进行痰液培养和血常规检查以明确病因。\",\n        \"保持充足的休息和水分摄入
+2026-03-08 20:19:23 - root - INFO - POST /api/v1/consultations/19/report - 状态码: 200 - 耗时: 2228.55ms
+2026-03-08 20:19:33 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 20:19:38 - root - INFO - GET /api/v1/consultations/19 - 状态码: 200 - 耗时: 15.16ms
+2026-03-08 20:19:38 - root - INFO - GET /api/v1/consultations/19/reports - 状态码: 200 - 耗时: 9.00ms
+2026-03-08 20:19:44 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 20:19:44 - app.services.ai - INFO - AI API 请求体: {"model": "qwen-turbo", "messages": [{"role": "system", "content": "\u4f60\u662f\u4e00\u4f4d\u4e13\u4e1a\u7684\u533b\u7597AI\u52a9\u624b\uff0c\u8bf7\u6839\u636e\u7528\u6237\u7684\u75c7\u72b6\u63cf\u8f...
+2026-03-08 20:19:44 - app.services.ai - INFO - AI API 响应状态码: 200
+2026-03-08 20:19:44 - app.services.ai - INFO - AI API 响应内容: {"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\n    \"diagnosis\": \"可能的诊断\",\n    \"possible_conditions\": [\"上呼吸道感染\", \"支气管炎\", \"肺炎\"],\n    \"suggestions\": [\"建议尽快就医以明确病因\", \"注意休息，保持充足的水分摄入\"],\n    \"severity\": \"medium\",\n    \"recommendations\": \"由于症状已持续2周且伴有低烧，建议尽快前往医院进行详细检查，例如胸部X光或痰液分析。同时，避免接触他人以防传染，并保持良好的个人卫生习惯。\"\n}","role":"assistant"}}],"created":1772972383,"id":"chatcmpl-ca2b9e25-c0b6-98c7-9e99-c2601f472d7e","model":"qwen-turbo","object":"chat.completio
+2026-03-08 20:19:44 - root - INFO - POST /api/v1/consultations/19/finish - 状态码: 200 - 耗时: 1413.14ms
+2026-03-08 20:19:54 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 20:20:20 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.00ms
+2026-03-08 20:20:22 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 10.99ms
+2026-03-08 20:21:59 - root - INFO - GET /api/v1/consultations/13 - 状态码: 200 - 耗时: 16.00ms
+2026-03-08 20:22:00 - root - INFO - GET /api/v1/consultations/13/reports - 状态码: 200 - 耗时: 14.00ms
+2026-03-08 20:22:02 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 15.00ms
+2026-03-08 20:28:36 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 7.18ms
+2026-03-08 20:28:36 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 11.00ms
+2026-03-08 20:32:55 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:32:55 - root - INFO - 数据库连接已关闭
+2026-03-08 20:32:59 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:32:59 - root - INFO - 调试模式: True
+2026-03-08 20:33:00 - root - INFO - 数据库表创建完成
+2026-03-08 20:33:00 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:33:12 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:33:12 - root - INFO - 数据库连接已关闭
+2026-03-08 20:33:17 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:33:17 - root - INFO - 调试模式: True
+2026-03-08 20:33:17 - root - INFO - 数据库表创建完成
+2026-03-08 20:33:17 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:33:49 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 210.23ms
+2026-03-08 20:34:10 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 19.00ms
+2026-03-08 20:34:16 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 13.00ms
+2026-03-08 20:34:36 - root - INFO - 正在关闭 医疗智能体系�?APP_VERSION=1.0.0
+2026-03-08 20:34:36 - root - INFO - 数据库连接已关闭
+2026-03-08 20:34:41 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 20:34:41 - root - INFO - 调试模式: True
+2026-03-08 20:34:41 - root - INFO - 数据库表创建完成
+2026-03-08 20:34:41 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
+2026-03-08 20:34:41 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 185.59ms
+2026-03-08 20:34:48 - root - INFO - GET /api/v1/auth/me - 状态码: 200 - 耗时: 10.00ms
+2026-03-08 20:34:48 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 11.00ms
+2026-03-08 20:34:59 - root - INFO - DELETE /api/v1/consultations/13 - 状态码: 204 - 耗时: 83.08ms
+2026-03-08 20:34:59 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 13.00ms
+2026-03-08 20:35:02 - root - INFO - DELETE /api/v1/consultations/14 - 状态码: 204 - 耗时: 26.15ms
+2026-03-08 20:35:02 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.01ms
+2026-03-08 20:35:04 - root - INFO - GET /api/v1/consultations/19 - 状态码: 200 - 耗时: 12.89ms
+2026-03-08 20:35:04 - root - INFO - GET /api/v1/consultations/19/reports - 状态码: 200 - 耗时: 12.99ms
+2026-03-08 20:38:06 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 21.01ms
+2026-03-08 20:38:09 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 18.00ms
+2026-03-08 20:38:09 - root - INFO - GET /api/v1/consultations/18/messages - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 20:38:12 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 12.02ms
+2026-03-08 20:38:13 - root - INFO - GET /api/v1/consultations/18 - 状态码: 200 - 耗时: 12.00ms
+2026-03-08 20:38:13 - root - INFO - GET /api/v1/consultations/18/reports - 状态码: 200 - 耗时: 9.99ms
+2026-03-08 20:38:19 - root - INFO - GET /api/v1/consultations - 状态码: 200 - 耗时: 11.01ms
+2026-03-08 21:28:10 - root - INFO - 正在启动 医疗智能体系�?APP_VERSION=1.0.0 v1.0.0
+2026-03-08 21:28:10 - root - INFO - 调试模式: True
+2026-03-08 21:28:10 - root - INFO - 数据库表创建完成
+2026-03-08 21:28:10 - root - INFO - 医疗智能体系�?APP_VERSION=1.0.0 启动完成
