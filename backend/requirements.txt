@@ -1,0 +1,77 @@
+# 医疗智能体系统 - Python依赖
+
+# Web框架
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# 数据库
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+pymysql>=1.1.0
+pymongo>=4.6.0
+
+# Redis
+redis>=5.0.0
+
+# 数据验证
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+email-validator>=2.1.0
+
+# 安全
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt==4.0.1
+python-multipart>=0.0.6
+
+# AI服务
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-qianwen>=0.1.0
+openai>=1.8.0
+
+# 向量数据库
+chromadb>=0.4.0
+
+# HTTP客户端
+httpx>=0.26.0
+requests>=2.31.0
+
+# 文件处理
+python-magic>=0.4.27
+Pillow>=10.1.0
+
+# 邮件
+aiofiles>=23.2.1
+fastapi-mail>=1.4.1
+
+# 短信
+alibabacloud-dysmsapi>=1.0.0
+
+# 工具
+python-dotenv>=1.0.0
+python-dateutil>=2.8.2
+aiohttp>=3.9.0
+
+# 日志
+loguru>=0.7.2
+
+# 开发工具
+ipython>=8.18.0
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+black>=23.12.0
+flake8>=7.0.0
+mypy>=1.7.0
+
+# 性能分析
+py-spy>=0.3.14
+memory-profiler>=0.61.0
+line-profiler>=4.1.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.26.0
+nbformat>=5.9.0
+nbconvert>=7.12.0
